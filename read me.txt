@@ -1,0 +1,2 @@
+1). First you must create 4 accounts.(admin,student,warden,landlord)
+2). After that you can ceck the web site
